@@ -1,0 +1,26 @@
+.container_bild{
+    width: 280px;
+
+    display: flex;               /* Aktiviert Flexbox */
+    align-items: center;         /* Zentriert vertikal */
+    justify-content: center;
+}
+
+.bild{
+    border: 3px solid #1A1A19;
+    border-radius: 6px;
+    box-shadow: 0 15px 40px rgba(0,0,0,.4);}
+
+.Blumen, .nude{
+    width: 100%;
+    height: 100%;
+}
+
+.Italien{
+    height: 80%;
+    width: 80%;
+}
+
+.Dresden{
+    width: 140%;
+}

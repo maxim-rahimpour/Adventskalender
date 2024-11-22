@@ -1,0 +1,31 @@
+.container_tage{
+    flex-grow: 3;
+    flex-basis: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    border: 5px solid #3C552D;
+    border-radius: 8px;
+    box-shadow: 0 15px 40px rgba(0,0,0,.2);
+}
+
+.btn_tage{
+    width: 88px;
+    height: 88px;
+    margin: 18px;
+
+    display: flex;               /* Aktiviert Flexbox */
+    align-items: center;         /* Zentriert vertikal */
+    justify-content: center;
+
+    border-radius: 16px;
+    background-color: #BF3131;
+    font-family: "Sour Gummy", sans-serif;
+    color: #CA7373;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0 8px 32px rgba(0,0,0,.4);
+}

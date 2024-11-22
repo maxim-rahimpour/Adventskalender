@@ -1,0 +1,12 @@
+.meme_höhe, .meme_breite{
+    border: 3px solid #1A1A19;
+    border-radius: 6px;
+    box-shadow: 0 15px 40px rgba(0,0,0,.4);
+}
+
+.meme_breite{
+    width: 100%;
+}
+.meme_höhe{
+    width: 80%;
+}
